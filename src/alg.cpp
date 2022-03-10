@@ -1,3 +1,5 @@
+@@ -2,5 +2,21 @@
+
 int cbinsearch(int *arr, int size, int value) {
   //  поместить сюда реализацию алгоритма
   return 0; // если ничего не найдено
